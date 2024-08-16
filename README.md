@@ -1,190 +1,242 @@
-# Marketing-Analysis-of-FMCG-Product--Power-BI
-CodeX is a German beverage company which is recently launched in India. They launched their energy drink in 10 cities in India.
-CodeX conducted a survey in those 10 cities and received results from 10k respondents.The survey was based on consumer behaviour questions like their purchasing habits, 
-their feedback about energy drinks available in the market, pricing, packaging etc.The survey question file is attached at the end of this article
+# **Marketing Analysis of FMCG Product - Power BI** ![Icon](https://img.icons8.com/ios-filled/50/000000/graph.png)
 
-Resarch Questions:
-Primary Insights (Sample Sections / Questions)
+## **Project Overview**
 
-1. Demographic Insights (examples)
-a. Who prefers energy drink more? (male/female/non-binary?)
-b. Which age group prefers energy drinks more?
-c. Which type of marketing reaches the most Youth (15-30)?
+CodeX, a German beverage company, has recently launched its energy drink in India across 10 cities. To understand consumer behavior and optimize marketing strategies, CodeX conducted a survey of 10,000 respondents. The survey focused on purchasing habits, feedback on existing energy drinks, pricing, packaging, and other aspects.
 
-2. Consumer Preferences:
-a. What are the preferred ingredients of energy drinks among respondents?
-b. What packaging preferences do respondents have for energy drinks?
+## **Research Questions**
 
-3. Competition Analysis:
-a. Who are the current market leaders?
-b. What are the primary reasons consumers prefer those brands over ours?
+### **1. Demographic Insights**
 
-4. Marketing Channels and Brand Awareness:
-a. Which marketing channel can be used to reach more customers?
-b. How effective are different marketing strategies and channels in reaching our
-customers?
+- **a.** Who prefers energy drinks more? (Male/Female/Non-binary)
+- **b.** Which age group prefers energy drinks more?
+- **c.** Which type of marketing reaches the most youth (15-30)?
 
-5. Brand Penetration:
-a. What do people think about our brand? (overall rating)
-b. Which cities do we need to focus more on?
+### **2. Consumer Preferences**
 
+- **a.** What are the preferred ingredients of energy drinks among respondents?
+- **b.** What packaging preferences do respondents have for energy drinks?
 
-6. Purchase Behavior:
-a. Where do respondents prefer to purchase energy drinks?
-b. What are the typical consumption situations for energy drinks among
-respondents?
-c. What factors influence respondents' purchase decisions, such as price range and
-limited edition packaging?
+### **3. Competition Analysis**
 
-7. Product Development
-a. Which area of business should we focus more on our product development?
-(Branding/taste/availability)
+- **a.** Who are the current market leaders?
+- **b.** What are the primary reasons consumers prefer those brands over ours?
 
+### **4. Marketing Channels and Brand Awareness**
 
-Demographic Analysis 
+- **a.** Which marketing channel can be used to reach more customers?
+- **b.** How effective are different marketing strategies and channels in reaching our customers?
 
-![image](https://github.com/user-attachments/assets/7262e498-b79b-442e-939c-17f369dfa63d)
+### **5. Brand Penetration**
 
-A) Gender Break Down
+- **a.** What do people think about our brand? (Overall rating)
+- **b.** Which cities do we need to focus more on?
 
-![image](https://github.com/user-attachments/assets/d8505233-c3ed-4b42-8a8a-c3fd9a2dc56f)
+### **6. Purchase Behavior**
 
-![image](https://github.com/user-attachments/assets/d4550f3c-b754-48f7-a87c-616d38244806)
+- **a.** Where do respondents prefer to purchase energy drinks?
+- **b.** What are the typical consumption situations for energy drinks among respondents?
+- **c.** What factors influence respondents' purchase decisions, such as price range and limited edition packaging?
 
-Out of 10 thousand respondents, the number of male respondents is 6038.
-This shows 60% of the consumers are male who prefer energy drinks more.
-Out of 10 thousand respondents , 980 were codex energy Drink Respondents and out of that 60% were Male.
+### **7. Product Development**
 
-B)Age Group Break Down 
+- **a.** Which area of business should we focus more on for product development? (Branding/Taste/Availability)
 
-![image](https://github.com/user-attachments/assets/a4e1c2d4-c85b-4d0b-a364-090e4aaebaaf)
 
-![image](https://github.com/user-attachments/assets/76982cf2-b374-41b7-9849-b6af0d050059)
 
-From the result of this survey, we get to know that energy drinks are more popular among youngsters. More than 50% of the respondents belong to the Age Group 19-30.
-If we look at overall young age groups from 15 to 30, then the % will rise to 70%
 
+## **Dashboard Overview**
 
-C) Marketing Channel Reach By Age Group
+The Power BI dashboard is designed to provide comprehensive insights into various aspects of the survey results. Below is an overview of each report:
 
-![image](https://github.com/user-attachments/assets/3807fc11-8431-445f-9bfd-2f69afcd540b)
+### **1. Demographic Analysis**
 
-![image](https://github.com/user-attachments/assets/977a3f25-8993-4359-832b-24323db836c8)
+![Demographic Analysis](https://i.imgur.com/svjFNE4.png)
 
-Online Ads are the most effective channel that reached 3373 respondents Age group 15-30.
-After online Ads ,TV Commercials  has better reach to youth and overall as well 
-So company should market the product on online platforms , use social media marketing such as Influencer marketing 
+This report provides an overview of 
+- the total survey respondents 
+- Gender Break Down of Energy Drink Consumers 
+- City Wise Energy Drink Consumers.
+- Energy Drink Consumer by age Group  
+It helps in understanding the demographic distribution and preferences of the target audience.
+### **A) Gender Breakdown**
 
 
-CONSUMER PREFRENCE ANALYSIS 
-A) Preferred Ingredients 
+![Male Respondents](https://github.com/user-attachments/assets/d8505233-c3ed-4b42-8a8a-c3fd9a2dc56f)
 
-![image](https://github.com/user-attachments/assets/2981f752-7a68-4dd2-985a-0e2bae5edcf8)
+Out of 10,000 respondents, 60% are male, indicating a higher preference for energy drinks among males. Among the 980 CodeX energy drink respondents, 60% are also male.
 
-![image](https://github.com/user-attachments/assets/7f8a6500-d151-4512-99d9-bf568eda03dd)
 
-As we know caffeine increases attention and alertness, and it is often used in energy drinks. Caffeine is the most expected ingredient followed by the Vitamins in energy drinks
-We can see that people expect around 49% expect or require natural or organic ingredients more
+### **B) Age Group Breakdown**
 
+![Age Group Breakdown](https://github.com/user-attachments/assets/a4e1c2d4-c85b-4d0b-a364-090e4aaebaaf)
 
-B) Package Prefrences 
+![Age Group Preferences](https://github.com/user-attachments/assets/76982cf2-b374-41b7-9849-b6af0d050059)
 
-![image](https://github.com/user-attachments/assets/6242fe05-0e63-48c8-b923-d0a1adfb5f2f)
+Energy drinks are popular among youngsters, with over 50% of respondents in the age group of 19-30. The percentage rises to 70% for the broader age range of 15-30.
 
-Compact & Portable Cans are high in demand followed by Innovative Bottle Designs.
+### **C) Marketing Channel Reach by Age Group**
 
-Competition Analysis 
+![Marketing Channel Reach](https://github.com/user-attachments/assets/3807fc11-8431-445f-9bfd-2f69afcd540b)
 
-![image](https://github.com/user-attachments/assets/29c347c0-5216-43da-9ffe-caff88c7afea)
+![Channel Effectiveness](https://github.com/user-attachments/assets/977a3f25-8993-4359-832b-24323db836c8)
 
-A)Market Leader 
+Online ads are the most effective channel for reaching the youth (15-30), followed by TV commercials. Focus marketing efforts on online platforms and social media, including influencer marketing.
 
-![image](https://github.com/user-attachments/assets/64916e57-4df8-4ef6-bcab-0514eb9d3c8e)
 
-Cola Coka is leading the market followed by Bepsi. The data shows there more respondents for Cola Coka than the other brands.
 
-B) Brand Awareness 
+### **2. Consumer Analysis**
 
-![image](https://github.com/user-attachments/assets/74c5c5ef-0c35-45f7-8fdb-047d657cd20e)
+![Consumer Analysis](https://i.imgur.com/xHrpAT4.png)
 
-The top reason for choosing the brands by consumers is brand reputation.
-Following that Availability is the reason for choosing the bran 
+This report offers insights into consumer preferences, including:
+- Preferred ingredients in energy drinks.
+- Typical consumption times and frequencies.
+- Reasons for consuming energy drinks and factors influencing consumption.
 
-Brand Penetration 
-A) What do people think about our brand? (overall rating)
+### **A) Preferred Ingredients**
 
-![image](https://github.com/user-attachments/assets/7694ffde-0630-4dd3-bb71-ad7beaf95c6d)
+![Preferred Ingredients](https://github.com/user-attachments/assets/2981f752-7a68-4dd2-985a-0e2bae5edcf8)
 
-Brand Preceptors 
+![Ingredient Preferences](https://github.com/user-attachments/assets/7f8a6500-d151-4512-99d9-bf568eda03dd)
 
-![image](https://github.com/user-attachments/assets/9f6d879d-f847-45a5-90cc-11bddbf54990)
+Caffeine is the most expected ingredient, followed by vitamins. About 49% of respondents prefer natural or organic ingredients in energy drinks.
 
-![image](https://github.com/user-attachments/assets/aed03b8a-7337-40d5-a242-6a45776434ae)
+### **B) Packaging Preferences**
 
-Only 2% of the population think codex is helathy and around 2% population feels codex is dangerous , it is less than other brands but it is because of less brand awareness as well 
+![Packaging Preferences](https://github.com/user-attachments/assets/6242fe05-0e63-48c8-b923-d0a1adfb5f2f)
 
+Compact and portable cans are highly preferred, followed by innovative bottle designs.
 
-B) Which cities do we need to focus more on?
 
-![image](https://github.com/user-attachments/assets/d1cf7c49-e194-45be-a796-e101e2097752)
 
+### **3. Competition Analysis**
 
- Purchase Behavior
+![Competition Analysis](https://i.imgur.com/hmwD92z.png)
 
- ![image](https://github.com/user-attachments/assets/574ca4e9-d21a-4644-aa90-79f0c8bd0296)
+This report highlights:
+- Market leaders and the competitive landscape.
+- Market share of CodeX compared to other brands.
+- Reasons for consumer preference towards other brands, including taste experience and brand perception.
 
-A) Purchase Location 
+### **A) Market Leader**
 
-![image](https://github.com/user-attachments/assets/adef6540-51bb-498d-a28a-a7b50956a52b)
+![Market Leader](https://github.com/user-attachments/assets/29c347c0-5216-43da-9ffe-caff88c7afea)
 
-B) Consumption Situation 
+![Leading Brands](https://github.com/user-attachments/assets/64916e57-4df8-4ef6-bcab-0514eb9d3c8e)
 
-![image](https://github.com/user-attachments/assets/da177dd9-342a-4796-ae44-aa115ffc153b)
+Cola Coka is the leading brand, followed by Bepsi. The majority of respondents prefer Cola Coka.
 
+### **B) Brand Awareness**
 
-C)  factors influence respondents' purchase decisions, such as price range and limited edition packaging
+![Brand Awareness](https://github.com/user-attachments/assets/74c5c5ef-0c35-45f7-8fdb-047d657cd20e)
 
-Limited Edition Packaging 
+Brand reputation and availability are the top reasons for consumers choosing a brand.
 
-![image](https://github.com/user-attachments/assets/770ef30a-a9ca-40f5-b78f-7db4eb411e46)
+## **Brand Penetration**
 
-40% of the consumers do not expect a change in the packaging while 39% of consumers are open to trying the Limited Edition Packaging.
+### **A) Brand Perception**
 
-Price Analysis 
+![Brand Perception](https://github.com/user-attachments/assets/7694ffde-0630-4dd3-bb71-ad7beaf95c6d)
 
-![image](https://github.com/user-attachments/assets/f86bbc23-04aa-49db-9fec-a8039f4adc4b)
+![Perception Analysis](https://github.com/user-attachments/assets/9f6d879d-f847-45a5-90cc-11bddbf54990)
 
- 43% of the consumers buy a product if the price is between 50-99.
+Only 2% of respondents consider CodeX healthy, and another 2% find it dangerous. This low perception is likely due to limited brand awareness.
 
- Product Development
+### **B) Focus Cities**
 
-![image](https://github.com/user-attachments/assets/0e02f073-cb56-4003-967e-a116cc09b980)
+![Focus Cities](https://github.com/user-attachments/assets/d1cf7c49-e194-45be-a796-e101e2097752)
 
-![image](https://github.com/user-attachments/assets/529ee6b8-d69e-4f5d-ad5e-c84197c66827)
 
- Recommendations 
- Ideal Price 
 
- ![image](https://github.com/user-attachments/assets/b28b1c81-ae43-43e5-8a19-584c2e212717)
+### **4. Purchasing Decision Analysis**
 
+![Purchasing Decision Analysis](https://i.imgur.com/p0GBBLI.png)
 
- The price range expected by consumers lies between 50 to 150.
-In cities like Ahmedabad, Chennai, Hyderabad, Kolkata, Lucknow, Mumbai, and Pune consumers expect the price range to be between 50 to 99.
-While in the rest of the cities, people are willing to pay up to 150.
+This report provides insights on:
+- High-sales locations and areas with potential for growth.
+- Reasons consumers try or do not try energy drinks.
+- The influence of factors such as price and limited edition packaging on purchase decisions.
 
-Offers & Discounts 
-we can provide offers on buying the pack of 6 cans at a cheaper cost.
-Also, each of these cities celebrates multiple festivals throughout the year. We can come up with the gift set packs.
-Marketing campaigns
-Social Media
-Influencer Marketing
-Online Retailers/E-commerce
-Guerilla Marketing
+### **A) Purchase Location**
 
+![Purchase Location](https://github.com/user-attachments/assets/adef6540-51bb-498d-a28a-a7b50956a52b)
 
+### **B) Consumption Situation**
 
+![Consumption Situation](https://github.com/user-attachments/assets/da177dd9-342a-4796-ae44-aa115ffc153b)
 
+### **C) Factors Influencing Purchase Decisions**
 
+**Limited Edition Packaging**
 
+![Limited Edition Packaging](https://github.com/user-attachments/assets/770ef30a-a9ca-40f5-b78f-7db4eb411e46)
 
+40% of consumers do not expect packaging changes, while 39% are open to limited edition packaging.
+
+**Price Analysis**
+
+![Price Analysis](https://github.com/user-attachments/assets/f86bbc23-04aa-49db-9fec-a8039f4adc4b)
+
+43% of consumers prefer products priced between 50-99 INR.
+
+
+## **Product Development**
+
+### **A) Focus Areas for Product Development**
+
+![Product Development](https://github.com/user-attachments/assets/0e02f073-cb56-4003-967e-a116cc09b980)
+
+![Development Focus](https://github.com/user-attachments/assets/529ee6b8-d69e-4f5d-ad5e-c84197c66827)
+
+
+### **5. Marketing Analysis**
+
+![Marketing Analysis](https://i.imgur.com/nNtO1Jk.png)
+
+This report evaluates:
+- Effectiveness of different marketing channels in reaching consumers.
+- Popularity of marketing channels specific to CodeX.
+- Channels with low reach and potential improvements in marketing strategy.
+
+### **6. Codex Performance Analysis**
+
+
+
+This summary report focuses exclusively on CodeX consumers, covering all performance indicators from the other reports. It provides a consolidated view of CodeX's performance metrics.
+
+## **How to Use the Dashboard**
+
+1. **Navigate Through Reports**: Use the navigation pane in Power BI to switch between different reports and explore detailed insights.
+2. **Interact with Visualizations**: Click on charts and graphs to filter data and view specific details related to demographics, consumer preferences, competition, and more.
+3. **Analyze Trends**: Look for patterns and trends across reports to inform strategic decisions and improve marketing strategies.
+
+## **Recommendations**
+
+Based on the dashboard insights, several recommendations can be made for improving market penetration, consumer engagement, and overall brand performance. Focus on optimizing marketing strategies, enhancing product features based on consumer preferences, and addressing competitive challenges.
+
+
+.
+## **Recommendations**
+
+### **Ideal Price**
+
+![Ideal Price](https://github.com/user-attachments/assets/b28b1c81-ae43-43e5-8a19-584c2e212717)
+
+Consumers expect a price range of 50-150 INR. In cities like Ahmedabad, Chennai, Hyderabad, Kolkata, Lucknow, Mumbai, and Pune, consumers prefer prices between 50-99 INR. In other cities, consumers are willing to pay up to 150 INR.
+
+### **Offers & Discounts**
+
+- Offer discounts on packs of 6 cans.
+- Create gift set packs for festivals in different cities.
+
+### **Marketing Campaigns**
+
+- **Social Media**: Utilize social media platforms for targeted ads.
+- **Influencer Marketing**: Collaborate with influencers to reach a wider audience.
+- **Online Retailers/E-commerce**: Leverage online channels for distribution.
+- **Guerrilla Marketing**: Implement creative marketing tactics to gain attention.
+
+- 
+For further details, please refer to the individual reports and visualizations within the Power BI dashboard.
 
